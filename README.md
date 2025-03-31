@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Banner Animado com Moldura -->
-<img src="https://github.com/HenriqueCrosio/github-assets/blob/main/gif_banner.gif?raw=true" style="width:100%; max-width:900px; border-radius:12px; border:4px solid #333; box-shadow:0px 4px 10px rgba(0,0,0,0.5);">
+<img src="https://github.com/HenriqueCrosio/github-assets/blob/main/eu%20ghibli.png?raw=true" style="width:100%; max-width:900px; border-radius:12px; border:4px solid #333; box-shadow:0px 4px 10px rgba(0,0,0,0.5);">
 
 <h1 style="color:#FFD700;">Henrique Crosio Neto</h1>
 <h3 style="color:#bbb;">Full Stack Developer | React & PHP | APIs & Scalable Apps</h3>
