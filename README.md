@@ -39,46 +39,43 @@
 ---
 
 <!-- Sobre Mim Atualizado -->
-<h2 align="center">About me</h2>
-
-<p align="center" style="max-width:800px; margin:auto; text-align:center;">
-I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST)</strong> at UNINTER, and I'm in the final stage of the <strong>Software Developer program at CESAE Digital</strong>. I'm also gaining hands-on experience as a <strong>Full Stack Developer Intern at Dig-In</strong>, working primarily with React, PHP, and Laravel. I'm passionate about game development, 3D modeling, and continuously strive to learn innovative technologies and methodologies. My current goal is to apply these new skills and approaches to real-world projects, tackling complex problems and delivering effective solutions.
-</p>
-
----
-
-<!-- Seção Educação -->
-<h2 align="center">Education</h2>
-
 <div align="center">
-  <ul style="list-style:none;">
-    <li>🎓 <strong>CST - Análise e Desenvolvimento de Sistemas</strong> | UNINTER</li>
-    <li>🎓 <strong>Software Developer</strong> | CESAE Digital</li>
-    <li>🎓 <strong>Gerenciamento Ambiental</strong> | ESALQ/USP</li>
-    <li>🎓 <strong>Bacharel em Ciências Sociais e Jurídicas</strong> | UNAERP</li>
-  </ul>
-</div>
+  <h2 style="color:#FFD700;">About Me</h2>
+  <p style="max-width:800px; text-align:center;">
+    I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST)</strong> at UNINTER, and I'm in the final stage of the <strong>Software Developer program at CESAE Digital</strong>. I'm also gaining hands-on experience as a <strong>Full Stack Developer Intern at Dig-In</strong>, working primarily with React, PHP, and Laravel. I'm passionate about game development, 3D modeling, and continuously strive to learn innovative technologies and methodologies. My current goal is to apply these new skills and approaches to real-world projects, tackling complex problems and delivering effective solutions.
+  </p>
 
----
+  <br>
 
-<!-- Idiomas -->
-<h2 align="center">Languages</h2>
+  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<div align="center">
-  <ul style="list-style:none;">
-    <li>🇧🇷 Português (Native)</li>
-    <li>🇺🇸 Inglês (C1 Level)</li>
-    <li>🇪🇸 Espanhol (Basic)</li>
-    <li>🇫🇷 Francês (Basic)</li>
-  </ul>
-</div>
+    <!-- Education Card -->
+    <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
+      <h3 style="color:#FFD700;">🎓 Education</h3>
+      <ul style="text-align:left; color:#fff;">
+        <li><strong>CST - Systems Analysis and Development</strong> | UNINTER</li>
+        <li><strong>Software Developer Program</strong> | CESAE Digital</li>
+        <li><strong>Environmental Management</strong> | ESALQ/USP</li>
+        <li><strong>Bachelor's in Social and Legal Sciences</strong> | UNAERP</li>
+      </ul>
+    </div>
 
----
+    <!-- Languages Card -->
+    <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
+      <h3 style="color:#FFD700;">🌐 Languages</h3>
+      <ul style="text-align:left; color:#fff;">
+        <li>🇧🇷 Portuguese (Native)</li>
+        <li>🇺🇸 English (C1 Level)</li>
+        <li>🇪🇸 Spanish (Basic)</li>
+        <li>🇫🇷 French (Basic)</li>
+      </ul>
+    </div>
 
-<!-- Contato -->
-<h2 align="center">Contact</h2>
+  </div>
 
-<div align="center">
+  <br>
+
+  <h3 style="color:#FFD700;">📫 Contact</h3>
   <a href="https://www.linkedin.com/in/henrique-crosio-neto-b34926229/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -86,4 +83,5 @@ I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
 
