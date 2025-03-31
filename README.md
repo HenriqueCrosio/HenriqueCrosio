@@ -1,15 +1,15 @@
 <div align="center">
   
 <!-- Banner Animado com Moldura -->
-  <img src="https://github.com/HenriqueCrosio/github-assets/blob/main/gif_banner.gif?raw=true" style="width:100%; max-width:900px; border-radius:12px; border:4px solid #333; box-shadow:0px 4px 10px rgba(0,0,0,0.5);">
-  
-  <h1 style="color:#FFD700;">Henrique Crosio Neto</h1>
-  <h3 style="color:#bbb;">Full Stack Developer | React & PHP | APIs & Scalable Apps</h3>
+<img src="https://github.com/HenriqueCrosio/github-assets/blob/main/gif_banner.gif?raw=true" style="width:100%; max-width:900px; border-radius:12px; border:4px solid #333; box-shadow:0px 4px 10px rgba(0,0,0,0.5);">
+
+<h1 style="color:#FFD700;">Henrique Crosio Neto</h1>
+<h3 style="color:#bbb;">Full Stack Developer | React & PHP | APIs & Scalable Apps</h3>
 </div>
 
 ---
 
-<!-- Estatísticas GitHub anteriores (melhor desempenho visual) -->
+<!-- GitHub Stats -->
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=HenriqueCrosio&show_icons=true&theme=radical&hide_rank=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCrosio&layout=compact&theme=radical"/>
@@ -18,7 +18,7 @@
 ---
 
 <!-- Skills com imagens corrigidas -->
-<h2 align="center">My Skills</h2>
+<h2 align="center" style="color:#FFD700;">Skills & Tools</h2>
 <div align="center">
   <table>
     <tr>
@@ -38,44 +38,47 @@
 
 ---
 
-<!-- Sobre Mim Atualizado -->
-<div align="center">
-  <h2 style="color:#FFD700;">About Me</h2>
-  <p style="max-width:800px; text-align:center;">
-    I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST)</strong> at UNINTER, and I'm in the final stage of the <strong>Software Developer program at CESAE Digital</strong>. I'm also gaining hands-on experience as a <strong>Full Stack Developer Intern at Dig-In</strong>, working primarily with React, PHP, and Laravel. I'm passionate about game development, 3D modeling, and continuously strive to learn innovative technologies and methodologies. My current goal is to apply these new skills and approaches to real-world projects, tackling complex problems and delivering effective solutions.
-  </p>
+<!-- About Me -->
+<h2 align="center" style="color:#FFD700;">About Me</h2>
 
-  <br>
+<p align="center" style="max-width:800px; margin:auto;">
+I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST)</strong> at UNINTER, and I'm in the final stage of the <strong>Software Developer program at CESAE Digital</strong>. I'm also gaining hands-on experience as a <strong>Full Stack Developer Intern at Dig-In</strong>, working primarily with React, PHP, and Laravel. I'm passionate about game development, 3D modeling, and continuously strive to learn innovative technologies and methodologies. My current goal is to apply these new skills and approaches to real-world projects, tackling complex problems and delivering effective solutions.
+</p>
 
-  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+---
 
-    <!-- Education Card -->
-    <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
-      <h3 style="color:#FFD700;">🎓 Education</h3>
-      <ul style="text-align:left; color:#fff;">
-        <li><strong>CST - Systems Analysis and Development</strong> | UNINTER</li>
-        <li><strong>Software Developer Program</strong> | CESAE Digital</li>
-        <li><strong>Environmental Management</strong> | ESALQ/USP</li>
-        <li><strong>Bachelor's in Social and Legal Sciences</strong> | UNAERP</li>
-      </ul>
-    </div>
+<!-- Education & Languages (Cards format) -->
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-    <!-- Languages Card -->
-    <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
-      <h3 style="color:#FFD700;">🌐 Languages</h3>
-      <ul style="text-align:left; color:#fff;">
-        <li>🇧🇷 Portuguese (Native)</li>
-        <li>🇺🇸 English (C1 Level)</li>
-        <li>🇪🇸 Spanish (Basic)</li>
-        <li>🇫🇷 French (Basic)</li>
-      </ul>
-    </div>
-
+  <!-- Education -->
+  <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
+    <h3 style="color:#FFD700;">🎓 Education</h3>
+    <ul style="text-align:left; color:#fff;">
+      <li><strong>CST - Systems Analysis and Development</strong><br>UNINTER</li>
+      <li><strong>Software Developer Program</strong><br>CESAE Digital</li>
+      <li><strong>Environmental Management</strong><br>ESALQ/USP</li>
+      <li><strong>Bachelor's in Social and Legal Sciences</strong><br>UNAERP</li>
+    </ul>
   </div>
 
-  <br>
+  <!-- Languages -->
+  <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
+    <h3 style="color:#FFD700;">🌐 Languages</h3>
+    <ul style="text-align:left; color:#fff;">
+      <li>🇧🇷 Portuguese (Native)</li>
+      <li>🇺🇸 English (C1 Level)</li>
+      <li>🇪🇸 Spanish (Basic)</li>
+      <li>🇫🇷 French (Basic)</li>
+    </ul>
+  </div>
 
-  <h3 style="color:#FFD700;">📫 Contact</h3>
+</div>
+
+---
+
+<!-- Contact -->
+<h2 align="center" style="color:#FFD700;">Contact</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/henrique-crosio-neto-b34926229/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -83,5 +86,7 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+---
 
 
