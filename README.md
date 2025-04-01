@@ -27,7 +27,7 @@
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br>JavaScript</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><br>PHP</td>
-      <td align="center"><img width="50" src="https://github.com/HenriqueCrosio/github-assets/blob/main/laravel.png?raw=true"><br>Laravel</td>
+      <td align="center"><img width="50" src="https://github.com/HenriqueCrosio/github-assets/blob/main/laravel_right.png?raw=true"><br>Laravel</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"><br>Unity</td>
       <td align="center"><img width="50" src="https://github.com/HenriqueCrosio/github-assets/blob/main/unreal_white.png?raw=true"><br>Unreal</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"><br>Blender</td>
