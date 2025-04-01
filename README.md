@@ -1,7 +1,7 @@
 <div align="center">
   
-<!-- Banner Animado com Moldura -->
-<img src="https://github.com/HenriqueCrosio/github-assets/blob/main/eu%20ghibli.png?raw=true" style="width:100%; max-width:900px; border-radius:12px; border:4px solid #333; box-shadow:0px 4px 10px rgba(0,0,0,0.5);">
+
+<img src="https://github.com/HenriqueCrosio/github-assets/blob/main/eu%20ghibli1.png?raw=true" style="width:100%; max-width:900px; border-radius:12px; border:4px solid #333; box-shadow:0px 4px 10px rgba(0,0,0,0.5);">
 
 <h1 style="color:#FFD700;">Henrique Crosio Neto</h1>
 <h3 style="color:#bbb;">Full Stack Developer | React & PHP | APIs & Scalable Apps</h3>
@@ -9,7 +9,7 @@
 
 ---
 
-<!-- GitHub Stats -->
+
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=HenriqueCrosio&show_icons=true&theme=radical&hide_rank=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCrosio&layout=compact&theme=radical"/>
@@ -17,7 +17,7 @@
 
 ---
 
-<!-- Skills com imagens corrigidas -->
+
 <h2 align="center" style="color:#FFD700;">Skills & Tools</h2>
 <div align="center">
   <table>
@@ -38,7 +38,7 @@
 
 ---
 
-<!-- About Me -->
+
 <h2 align="center" style="color:#FFD700;">About Me</h2>
 
 <p align="center" style="max-width:800px; margin:auto;">
@@ -47,10 +47,10 @@ I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST
 
 ---
 
-<!-- Education & Languages (Cards format) -->
+
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-  <!-- Education -->
+  
   <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
     <h3 style="color:#FFD700;">🎓 Education</h3>
     <ul style="text-align:left; color:#fff;">
@@ -61,7 +61,7 @@ I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST
     </ul>
   </div>
 
-  <!-- Languages -->
+  
   <div style="background-color:#1e1e1e; border-radius:10px; padding:20px; box-shadow: 0 4px 10px rgba(0,0,0,0.4); width:350px;">
     <h3 style="color:#FFD700;">🌐 Languages</h3>
     <ul style="text-align:left; color:#fff;">
@@ -76,7 +76,7 @@ I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST
 
 ---
 
-<!-- Contact -->
+
 <h2 align="center" style="color:#FFD700;">Contact</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/henrique-crosio-neto-b34926229/">
