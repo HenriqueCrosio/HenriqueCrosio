@@ -29,7 +29,7 @@
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><br>PHP</td>
       <td align="center"><img width="50" src="https://github.com/HenriqueCrosio/github-assets/blob/main/laravel.png?raw=true"><br>Laravel</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"><br>Unity</td>
-      <td align="center"><img width="50" src="https://github.com/HenriqueCrosio/github-assets/blob/main/unreal.png?raw=true"><br>Unreal</td>
+      <td align="center"><img width="50" src="https://github.com/HenriqueCrosio/github-assets/blob/main/unreal_white.png?raw=true"><br>Unreal</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"><br>Blender</td>
       <td align="center"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"><br>Photoshop</td>
     </tr>
