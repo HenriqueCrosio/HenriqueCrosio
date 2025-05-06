@@ -68,7 +68,7 @@ I'm currently pursuing a degree in <strong>Systems Analysis and Development (CST
       <li>🇧🇷 Portuguese (Native)</li>
       <li>🇺🇸 English (C1 Level)</li>
       <li>🇪🇸 Spanish (Basic)</li>
-      <li>🇫🇷 French (Basic)</li>
+      <li>🇫🇷 French (basic)</li>
     </ul>
   </div>
 
