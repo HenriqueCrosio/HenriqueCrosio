@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/HenriqueCrosio/github-assets/blob/main/gifghibli.gif?raw=true)
 
-# Henrique Crosio Neto  
+# Henrique Crosio Neto
 ### Full Stack Developer | React & PHP | APIs & Scalable Apps
 
 </div>
@@ -75,5 +75,4 @@ My goal is to build meaningful, scalable applications and solve real-world chall
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
 
